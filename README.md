@@ -4,9 +4,7 @@ This is a hello-world program created with C#.
 
 I created the program just to show that I can write a simple program in C# using Visual Studio Code.
 
-{Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Here is a demo of my software here: [Software Demo Video](https://youtu.be/_sm-UbCRZ_U)
 
 # Development Environment
 
@@ -15,8 +13,6 @@ I created the program just to show that I can write a simple program in C# using
 - Git / GitHub
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [Web Site Name](http://url.link.goes.here)
 - [Web Site Name](http://url.link.goes.here)
