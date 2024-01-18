@@ -1,7 +1,5 @@
 # Overview
 
-{Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
 This is a hello-world program created with C#.
 
 I created the program just to show that I can write a simple program in C# using Visual Studio Code.
