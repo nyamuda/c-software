@@ -11,8 +11,3 @@ Here is a demo of my software here: [Software Demo Video](https://youtu.be/_sm-U
 - Visual Studio Code
 - C#
 - Git / GitHub
-
-# Useful Websites
-
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
